@@ -1,0 +1,31 @@
+USERNAME="balegas"
+FILENAME="riak.conf"
+
+NODE_NAME=(
+	"riak"
+	)
+
+RIAK_BIN=(
+	"/Users/balegas//workspace/erlang/riak-2.2.0/bin/"
+	)
+
+
+RIAK_CONF_DIR=(
+	"/Users/balegas//workspace/erlang/riak-2.2.0/etc/"
+	)
+
+NODE_ADDRESS=(
+	"127.0.0.1"
+	)
+
+PB_PORT=(
+	8087
+	)
+
+HTTP_PORT=(
+	8098
+)
+
+HANDOFF_PORT=(
+	8099
+)

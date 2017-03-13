@@ -9,4 +9,5 @@ Example:
 
 Example file to start a 3-node local cluster.
 
-
+Works with pre-compiled Riak packages (tested in OSX).
+Can get it here: http://docs.basho.com/riak/kv/2.2.0/downloads/
